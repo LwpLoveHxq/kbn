@@ -1,9 +1,3 @@
-/*----样式
-}, {
-		"selector": "a[id^='']",
-		"text": [""]
-*/
-
 {
 	"mouseover": [{
 		"selector": "#waifu #live2d",
