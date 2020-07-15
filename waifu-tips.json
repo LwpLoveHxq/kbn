@@ -3,6 +3,9 @@
 		"selector": "#waifu #live2d",
 		"text": ["干嘛呢你，快把手拿开～～", "鼠…鼠标放错地方了！", "你要干嘛呀？", "喵喵喵？", "怕怕(ノ≧∇≦)ノ", "非礼呀！救命！", "这样的话，只能使用武力了！", "我要生气了哦", "不要动手动脚的！", "真…真的是不知羞耻！", "Hentai！"]
 	}, {
+		"selector": ".id asd",
+		"text": ["试试"]
+	}, {
 		"selector": "#waifu-tool .fa-comment",
 		"text": ["猜猜我要说些什么？", "我从青蛙王子那里听到了不少人生经验。"]
 	}, {
@@ -97,9 +100,9 @@
 		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
 	}, {
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
-		"text": ["要去看看 <span>{text}</span> 么？", "去 <span>{text}</span> 逛逛吧。", "到 <span>{text}</span> 看看吧。"]
+		"text": ["要去看看 <span>{text}</span> 么？", "前往站点 <span>{text}</span> 逛逛吧。", "是准备传送到 <span>{text}</span> 站点嘛。"]
 	}, {
-		"selector": ".back-to-top",
+		"selector": ".gototop a",
 		"text": ["点它就可以回到顶部啦！", "又回到最初的起点～", "要回到开始的地方么？"]
 	}, {
 		"selector": ".reward-container",
