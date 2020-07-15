@@ -111,7 +111,7 @@
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
 		"text": ["要去看看 <span>{text}</span> 么？", "前往站点 <span>{text}</span> 逛逛吧。", "是准备传送到 <span>{text}</span> 站点嘛。"]
 	}, {
-		"selector": "a[id^='top'] ",
+		"selector": "div[id^='top'] ",
 		"text": ["点它就可以回到顶部啦！", "又回到最初的起点～", "要回到开始的地方么？"]
 	}, {
 		"selector": ".reward-container",
