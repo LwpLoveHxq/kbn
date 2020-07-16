@@ -18,8 +18,17 @@
 		"selector": "div[id^='music_chu']",
 		"text": ["嘿咻嘿咻！！推进去在拉出来！！！","点下试试呗","嘿咻嘿咻","又双叒叕被系统禁言啦！！！","推进去，拉出来。。。进去，出来。。。去，来，嘿嘿嘿。"]
 	}, {
+		"selector": "div[id^='music_Last_song']",
+		"text": ["要跳到上一首嘛？","果然还是上一首好听嘛？那就跳上一首吧！","点击跳到上一首哦","需要重温一下上一首歌嘛？"]
+	}, {
 		"selector": "div[id^='music_stop']",
 		"text": ["小三角是播放，两根杠杠是暂停啦。","歌好听嘛？应该好听吧","要是不好听，一定要联系主人哦"]
+	}, {
+		"selector": "div[id^='music_Next_song']",
+		"text": ["要跳到下一首嘛？","这首歌不好听了嘛，那就跳下一首吧","点击跳到下一首哦","下一首更乖！耶！"]
+	}, {
+		"selector": "div[id^='music_song_sheet']",
+		"text": ["点击打开主人歌单。","有什么好听的歌可以推荐给主人哦，他会很开心的。","这里都是主人喜欢的歌。","主人的品味真的很普辶***，又被禁言了。"]
 	}, {
 		"selector": "#waifu-tool .fa-comment",
 		"text": ["猜猜我要说些什么？", "我从青蛙王子那里听到了不少人生经验。"]
@@ -117,7 +126,7 @@
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
 		"text": ["要去看看 <span>{text}</span> 么？", "前往站点 <span>{text}</span> 逛逛吧。", "是准备传送到 <span>{text}</span> 站点嘛。"]
 	}, {
-		"selector": "div[id^='top'] ",
+		"selector": "a[id^='top'] ",
 		"text": ["点它就可以回到顶部啦！", "又回到最初的起点～", "要回到开始的地方么？"]
 	}, {
 		"selector": ".reward-container",
